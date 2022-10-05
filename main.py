@@ -22,4 +22,4 @@ print("Największa podana liczba przez użytkownika to - "+str(max))
 
 print("Najmniejsza podana liczba przez użytkownika to - "+str(min))
 
-#koniec
+#koniecAplikacji
