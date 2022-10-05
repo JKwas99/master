@@ -1,3 +1,4 @@
+#startAplikacji
 name = []
 
 for i in range(0,10):
