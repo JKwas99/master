@@ -21,3 +21,5 @@ for i in range(0,name_length-1):
 print("Największa podana liczba przez użytkownika to - "+str(max))
 
 print("Najmniejsza podana liczba przez użytkownika to - "+str(min))
+
+#koniec
